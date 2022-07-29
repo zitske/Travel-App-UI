@@ -1,6 +1,6 @@
 # places_discover
 
-A new Flutter project.
+https://dribbble.com/shots/18874273-Travel-App
 
 ## Getting Started
 
